@@ -4,6 +4,8 @@ class Test{
            System.out.println("java with jenkins");
            System.out.println("king thapak");
            System.out.println("added another statement");
+           Student student = new Student();
+           student.sayHello();
 
 
     }
